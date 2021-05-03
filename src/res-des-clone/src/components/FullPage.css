@@ -1,0 +1,37 @@
+.page-top{
+  display: flex;
+  height: 85%;
+  width: 100%;
+  color: white;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  z-index: 100;
+  margin-top: 20px
+}
+
+h3 {
+  font-size: 40px;
+  font-style: italic;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+h1 {
+  font-size: 75px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+button{
+  background-color: #fed136;
+  width: 200px;
+  height: 75px;
+  border-radius: 5% 5% 5% 5%;
+  border-style: hidden;
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+  font-weight: bolder;
+}
